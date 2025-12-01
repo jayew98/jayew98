@@ -1,6 +1,9 @@
 ## Hi there 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=12&pause=1000&color=007913&width=435&lines=Studying+Electrical+and+Electronic+Engineering+)](https://git.io/typing-svg)
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jayew98)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **jayew98/jayew98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
